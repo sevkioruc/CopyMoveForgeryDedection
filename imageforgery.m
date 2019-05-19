@@ -81,6 +81,7 @@ for a=1:R-7
     end
 end
 
+
 % lexicographically sort
 
 Vects=sortrows(Vects,1:16);
